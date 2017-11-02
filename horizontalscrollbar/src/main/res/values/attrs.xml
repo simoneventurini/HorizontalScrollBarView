@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="HorizontalScrollBarView">
+        <attr name="roundDimen" format="dimension" />
+        <attr name="scrollColor" format="color" />
+        <attr name="enableAnim" format="boolean" />
+        <attr name="staticAlpha" format="float" />
+        <attr name="scrollingAlpha" format="float" />
+        <attr name="animToStaticDuration" format="integer" />
+        <attr name="animToScrollingDuration" format="integer" />
+
+    </declare-styleable>
+
+</resources>
