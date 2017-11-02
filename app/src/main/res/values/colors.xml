@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="scrollBarColor">#AD1c81</color>
+    <color name="backgroundScrollColor">#212121</color>
+    <color name="backgrounditemColor">#55f231f1</color>
+
 </resources>

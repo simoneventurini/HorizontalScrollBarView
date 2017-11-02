@@ -49,7 +49,7 @@ public class HorizontalScrollBarView extends View {
         paint.setAntiAlias(true);
         paint.setColor(scrollColor);
 
-        enableAnim = (attributes.getBoolean(R.styleable.HorizontalScrollBarView_scrollColor, false));
+        enableAnim = (attributes.getBoolean(R.styleable.HorizontalScrollBarView_enableAnim, false));
         if (enableAnim) {
             float staticAlpha = attributes.getFloat(R.styleable.HorizontalScrollBarView_staticAlpha, 0.3f);
             float scrollingAlpha = attributes.getFloat(R.styleable.HorizontalScrollBarView_scrollingAlpha, 0.75f);
