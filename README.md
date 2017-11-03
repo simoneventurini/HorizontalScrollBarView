@@ -11,7 +11,7 @@ maven {
 }
 
 dependencies {
-    compile 'com.github.simoneventurini:HorizontalScrollBarView:0.1.0'
+    compile 'com.github.simoneventurini:HorizontalScrollBarView:0.2.0'
 }
 ```
 
